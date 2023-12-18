@@ -25,12 +25,14 @@ a {
 /* colore e linea del link*/
 
 a:hover{
+    color: black;
     text-decoration: underline;
+    
 }
 /* colore e linea del link quando lo si tocca*/
 
 a:visited{
-    
+
     text-decoration: line-through;
 }
 /* colore e linea del link dopo che si è visiato il link*/
