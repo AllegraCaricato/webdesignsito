@@ -32,7 +32,7 @@ a:hover{
 /* colore e linea del link quando lo si tocca*/
 
 a:visited{
-
+    color: black;
     text-decoration: line-through;
 }
 /* colore e linea del link dopo che si è visiato il link*/
