@@ -2,12 +2,13 @@
 h3{background-color: rgb(245, 6, 6);
     ont-weight 700;
     font-style: italic;
-    font-family: 'Sacramento', cursive;
+    font-family: 'HalyardDis_ISIAU Bk';
     font-size: 28px;
 }
 /* body è un selettore, di colore in questo caso*/
 
 body {background-color: rgb(0, 68, 255)
+    font-family: 'HalyardDis_ISIAU Bk';
 }
 
 /* il colori si possono fare con color:rgb e con color #ff000*/
