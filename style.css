@@ -1,0 +1,35 @@
+/* fondamentale scrivere in head di html che il css comunica con lui */
+h3{background-color: rgb(245, 6, 6);
+    ont-weight 700;
+    font-style: italic;
+    font-family: 'Sacramento', cursive;
+    font-size: 28px;
+}
+/* body è un selettore, di colore in questo caso*/
+
+body {background-color: rgb(0, 68, 255)
+}
+
+/* il colori si possono fare con color:rgb e con color #ff000*/
+
+body{color: rgb(255, 255, 255);
+}
+/*questo è per cambiare il colore del carattere*/
+
+a {color: rgb(221, 255, 0);
+    text-decoration: overline;
+}
+/* colore e linea del link*/
+
+a:hover{color: rgb(226, 119, 43);
+    text-decoration: underline;
+}
+/* colore e linea del link quando lo si tocca*/
+
+a:visited{
+    color: black;
+    text-decoration: line-through;
+}
+/* colore e linea del link dopo che si è visiato il link*/
+
+
