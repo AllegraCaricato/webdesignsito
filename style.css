@@ -2,24 +2,24 @@
 h3{
     ont-weight 700;
     font-style: italic;
-    font-family: 'HalyardDis_ISIAU Bk';
+    font-family: 'HalyardDis_ISIAU Bk', Arial, sans-serif; /*se il nome del font ha più di due parole va scritto tra virgolette*/
     font-size: 28px;
 }
 /* body è un selettore, di colore in questo caso*/
 
-body { font-family: 'HalyardDis_ISIAU Bk';
+body { font-family: 'HalyardDis_ISIAU Bk', Arial, sans-serif;
 }
 
 /* il colori si possono fare con color:rgb e con color #ff000*/
 
 body{color:
-    font-family: 'HalyardDis_ISIAU Bk';
+    font-family: 'HalyardDis_ISIAU Bk', Arial, sans-serif;
 }
 /*questo è per cambiare il colore del carattere*/
 
 a {
     border-bottom: 1px solid black; /*shorthand è la contrazione di quelle che normalmente sarebbero diverse righe di codice*/ 
-    font-family: 'HalyardDis_ISIAU Bk';
+    font-family: 'HalyardDis_ISIAU Bk', Arial, sans-serif;
     text-decoration: overline;
 }
 /* colore e linea del link*/
