@@ -19,6 +19,7 @@ body{color:
 
 a {
     border-bottom: 1px solid black; /*shorthand è la contrazione di quelle che normalmente sarebbero diverse righe di codice*/ 
+    color: black;
     font-family: 'HalyardDis_ISIAU Bk', Arial, sans-serif;
     text-decoration: none;
 }
