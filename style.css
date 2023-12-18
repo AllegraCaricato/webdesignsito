@@ -15,6 +15,7 @@ body { font-family: 'HalyardDis_ISIAU Bk', Arial, sans-serif;
 body{
     color:black;
     font-family: 'HalyardDis_ISIAU Bk', Arial, sans-serif;
+    display: flex;
 }
 /*questo è per cambiare il colore del carattere*/
 
@@ -40,8 +41,7 @@ a:visited{
 /* colore e linea del link dopo che si è visiato il link*/
 
 div{
-    background-color: aqua;
-
+    background-color: rgb(255, 255, 255);
 }
 
 
