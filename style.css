@@ -12,7 +12,8 @@ body { font-family: 'HalyardDis_ISIAU Bk', Arial, sans-serif;
 
 /* il colori si possono fare con color:rgb e con color #ff000*/
 
-body{color:
+body{
+    color:black;
     font-family: 'HalyardDis_ISIAU Bk', Arial, sans-serif;
 }
 /*questo è per cambiare il colore del carattere*/
